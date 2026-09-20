@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:31:26.632301",
+  "updated_at": "2026-09-20T23:31:29.292033",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -58,7 +58,7 @@
       "customer_name": "tuankiet",
       "phone": "",
       "role": "Khách hàng",
-      "status": "locked",
+      "status": "active",
       "expiry": "Vĩnh viễn",
       "hwid": ""
     }
