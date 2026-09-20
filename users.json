@@ -1,5 +1,16 @@
 {
-  "updated_at": "2026-09-20T23:16:47.456594",
+  "updated_at": "2026-09-20T23:19:26.380161",
+  "version": "2.0",
+  "offline_admin": {
+    "username": "tantai",
+    "pin": "230597",
+    "customer_name": "Tấn Tài",
+    "phone": "0834379793",
+    "role": "Administrator",
+    "status": "active",
+    "expiry": "Vĩnh viễn",
+    "hwid": ""
+  },
   "users": [
     {
       "username": "tantai",
