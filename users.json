@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-09-20T23:15:07.558963",
+  "users": [
+    {
+      "username": "tantai",
+      "pin": "230597",
+      "customer_name": "Tấn Tài",
+      "phone": "0834379793",
+      "role": "Administrator",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": ""
+    },
+    {
+      "username": "thephuongcomputer",
+      "pin": "99999999",
+      "customer_name": "The Phuong",
+      "phone": "",
+      "role": "Quản trị viên",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": ""
+    },
+    {
+      "username": "test",
+      "pin": "2305",
+      "customer_name": "test",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": ""
+    }
+  ],
+  "banned_hwids": []
+}
