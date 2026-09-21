@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:08:29.957822",
+  "updated_at": "2026-09-21T12:11:29.165730",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -166,6 +166,16 @@
       "username": "nhne.admin",
       "pin": "nhne.admi",
       "customer_name": "nhne.admin",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": ""
+    },
+    {
+      "username": "bvdqnit",
+      "pin": "Dinh123123",
+      "customer_name": "Bn khach mua tool",
       "phone": "",
       "role": "Khách hàng",
       "status": "active",
