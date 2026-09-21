@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:10:32.916188",
+  "updated_at": "2026-09-22T01:36:07.638891",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -420,16 +420,6 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
-    },
-    {
-      "username": "khach_6469",
-      "pin": "803603",
-      "customer_name": "khach_6469",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "22/10/2026",
       "hwid": ""
     }
   ],
