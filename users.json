@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:33:42.891308",
+  "updated_at": "2026-09-21T12:35:06.071475",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -246,16 +246,6 @@
       "username": "thephuongcomputer",
       "pin": "11223344",
       "customer_name": "thephuongcomputer",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": ""
-    },
-    {
-      "username": "NamTC",
-      "pin": "Nam@123",
-      "customer_name": "NamTC",
       "phone": "",
       "role": "Khách hàng",
       "status": "active",
