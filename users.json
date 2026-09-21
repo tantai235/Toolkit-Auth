@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:11:54.717894",
+  "updated_at": "2026-09-21T19:12:35.534828",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -396,6 +396,16 @@
       "username": "hacamera",
       "pin": "hacamera",
       "customer_name": "hacamera",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": ""
+    },
+    {
+      "username": "daoquyetcomputer",
+      "pin": "daoquyetcomputer",
+      "customer_name": "daoquyetcomputer",
       "phone": "",
       "role": "Khách hàng",
       "status": "active",
