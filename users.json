@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:04:40.741565",
+  "updated_at": "2026-09-21T13:06:56.334083",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -276,6 +276,16 @@
       "username": "tuean",
       "pin": "222156",
       "customer_name": "tuean",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": ""
+    },
+    {
+      "username": "siro",
+      "pin": "123123123",
+      "customer_name": "siro",
       "phone": "",
       "role": "Khách hàng",
       "status": "active",
