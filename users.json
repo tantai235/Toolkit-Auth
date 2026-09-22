@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T15:26:49.610198",
+  "updated_at": "2026-09-22T15:26:53.313467",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -710,23 +710,6 @@
         1789897168794058000,
         "06d8dfcc27be4c53b2c21cda9b0fdad7"
       ]
-    },
-    {
-      "username": "test2",
-      "pin": "test2",
-      "customer_name": "test2",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": "",
-      "updated_at": "2026-09-22T12:05:55.374333",
-      "password_revision": [
-        1790053555374333184,
-        "3ed070d579f4414080bf222a1216c9f4"
-      ],
-      "password_events": [],
-      "last_login": ""
     }
   ],
   "banned_hwids": [],
@@ -735,6 +718,7 @@
     "khach_2219",
     "khach_6469",
     "test",
-    "test1"
+    "test1",
+    "test2"
   ]
 }
