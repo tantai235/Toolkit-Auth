@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T16:49:12.985899",
+  "updated_at": "2026-09-22T16:49:36.976125",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -1007,6 +1007,36 @@
           "time": "2026-09-22T09:49:11+00:00",
           "source": "admin",
           "revision": 1790070551690496900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "quanit311",
+      "customer_name": "quanit311",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:49:35.460019",
+      "profile_revision": [
+        1790070575460018944,
+        "d3025f6b8de443d1baa4171a30cfba17"
+      ],
+      "pin": "pbkdf2_sha256$600000$8de6c70145482714db1a7320f9ac27c3$4de9a1642750de8f4cff155e356dc31f0efbcdbd2a76ab0c89fb350434262b54",
+      "password_revision": [
+        1790070575899274600,
+        "7ea869a11fce42f4b8b7b64f7fe5a257"
+      ],
+      "password_events": [
+        {
+          "id": "7ea869a11fce42f4b8b7b64f7fe5a257",
+          "username": "quanit311",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:49:35+00:00",
+          "source": "admin",
+          "revision": 1790070575899274600
         }
       ],
       "last_login": ""
