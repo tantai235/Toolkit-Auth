@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T18:25:44.586804",
+  "updated_at": "2026-09-22T18:30:33.815050",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -1664,6 +1664,36 @@
           "time": "2026-09-22T11:25:43+00:00",
           "source": "admin",
           "revision": 1790076343206810000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vant1989",
+      "customer_name": "Van Tran Zalo",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T18:30:32.124037",
+      "profile_revision": [
+        1790076632124037376,
+        "5a7fd40c72ea4a6686bdd570b90c6237"
+      ],
+      "pin": "pbkdf2_sha256$600000$b7329332a004344866f02aaddb9cc912$b5a23703ee9ca0f5c8c073f8270f8edae582d4cbd98566e4fa262469d8da781e",
+      "password_revision": [
+        1790076632572268200,
+        "31911420198e4ffab2407f90f4a4fe15"
+      ],
+      "password_events": [
+        {
+          "id": "31911420198e4ffab2407f90f4a4fe15",
+          "username": "vant1989",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T11:30:32+00:00",
+          "source": "admin",
+          "revision": 1790076632572268200
         }
       ],
       "last_login": ""
