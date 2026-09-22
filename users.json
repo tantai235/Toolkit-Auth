@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:29:41.826932",
+  "updated_at": "2026-09-22T23:30:03.992563",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -1757,41 +1757,12 @@
         }
       ],
       "last_login": ""
-    },
-    {
-      "username": "hung86@",
-      "customer_name": "hung86@",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": "",
-      "updated_at": "2026-09-22T23:29:40.248765",
-      "profile_revision": [
-        1790094580248765440,
-        "5668d5cf0f0f497e807bb60a3293c970"
-      ],
-      "pin": "pbkdf2_sha256$600000$52a77098c011d5c7166b37b604478d48$4e76e0a0f5e32976bbefa5d05f5bb578035dd60d7b9478f22ebf81209228675f",
-      "password_revision": [
-        1790094580693082100,
-        "1d420f5c64ec41c7a9ae3c18b7e228d6"
-      ],
-      "password_events": [
-        {
-          "id": "1d420f5c64ec41c7a9ae3c18b7e228d6",
-          "username": "hung86@",
-          "computer": "UserPassManager",
-          "time": "2026-09-22T16:29:40+00:00",
-          "source": "admin",
-          "revision": 1790094580693082100
-        }
-      ],
-      "last_login": ""
     }
   ],
   "banned_hwids": [],
   "deleted_users": [
     "doublelift",
+    "hung86@",
     "khach_2219",
     "khach_6469",
     "test",
