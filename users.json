@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:02:37.592263",
+  "updated_at": "2026-09-22T17:31:39.507810",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -495,7 +495,7 @@
     },
     {
       "username": "computerworkshop",
-      "pin": "computerworkshop3101@",
+      "pin": "pbkdf2_sha256$600000$16771fdef7af3adfdac11c7dd5e11d14$9f6f4c4815cdaecd4d3bdbdf87fbed3a5bdc370805cb3369a9d6c900b819acf6",
       "customer_name": "Computer Tu Do",
       "phone": "",
       "role": "Khách hàng",
@@ -503,10 +503,19 @@
       "expiry": "Vĩnh viễn",
       "hwid": "",
       "password_revision": [
-        1790049104425732700,
-        "sync"
+        1790071260239528600,
+        "b02bbeaf2081478f8cba944f63d57f92"
       ],
-      "password_events": [],
+      "password_events": [
+        {
+          "id": "b02bbeaf2081478f8cba944f63d57f92",
+          "username": "computerworkshop",
+          "computer": "namdamsat",
+          "time": "2026-09-22T10:01:00+00:00",
+          "source": "user",
+          "revision": 1790071260239528600
+        }
+      ],
       "last_login": ""
     },
     {
@@ -1097,6 +1106,36 @@
           "time": "2026-09-22T10:02:36+00:00",
           "source": "admin",
           "revision": 1790071356157554500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "dinhbach318",
+      "customer_name": "dinhbach318",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T17:31:37.874508",
+      "profile_revision": [
+        1790073097874508032,
+        "98a7173a946e4b3a8caefb8c22bc5e73"
+      ],
+      "pin": "pbkdf2_sha256$600000$ee66edfbf2836d4a006b24556a9d9896$11e1af8880527e6472a9861904dcc9a12ed74c7f05326e6dd76f96be2ac109fb",
+      "password_revision": [
+        1790073098316410100,
+        "716586df72f845ed8bcff93e7e27561b"
+      ],
+      "password_events": [
+        {
+          "id": "716586df72f845ed8bcff93e7e27561b",
+          "username": "dinhbach318",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T10:31:38+00:00",
+          "source": "admin",
+          "revision": 1790073098316410100
         }
       ],
       "last_login": ""
