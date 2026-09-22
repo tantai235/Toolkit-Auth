@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:59:53.922348",
+  "updated_at": "2026-09-22T12:05:56.138643",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -698,6 +698,23 @@
       "password_revision": [
         1790053193194343168,
         "37b055abe7824ff5936097a37c0d96a9"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "test2",
+      "pin": "test2",
+      "customer_name": "test2",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T12:05:55.374333",
+      "password_revision": [
+        1790053555374333184,
+        "3ed070d579f4414080bf222a1216c9f4"
       ]
     }
   ],
