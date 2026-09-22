@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:36:07.638891",
+  "updated_at": "2026-09-22T10:51:50.754371",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -20,7 +20,13 @@
       "role": "Administrator",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "tuankiet",
@@ -30,7 +36,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "admin",
@@ -40,7 +52,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "duonghainam",
@@ -50,7 +68,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "maytinhtruyenhoa",
@@ -60,7 +84,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "namnguyen",
@@ -70,7 +100,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "wwwhieu1234",
@@ -80,7 +116,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "nguyendinhbach",
@@ -90,7 +132,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "tuananh",
@@ -100,7 +148,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "minhphungvie",
@@ -110,7 +164,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "maytinhduchieu",
@@ -120,7 +180,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "NPL",
@@ -130,7 +196,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "rimkk248",
@@ -140,7 +212,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "dang",
@@ -150,7 +228,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "Ducbac179",
@@ -160,7 +244,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "nhne.admin",
@@ -170,7 +260,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "bvdqnit",
@@ -180,7 +276,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "duymanh",
@@ -190,7 +292,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "tienhung2509",
@@ -200,7 +308,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "thietnn77",
@@ -210,7 +324,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "letuanvu",
@@ -220,7 +340,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "tkiet",
@@ -230,7 +356,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "vietvuivezxc",
@@ -240,7 +372,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "thephuongcomputer",
@@ -250,7 +388,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "namtc",
@@ -260,7 +404,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "sangpc@gmail.com",
@@ -270,7 +420,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "tuean",
@@ -280,7 +436,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "siro",
@@ -290,7 +452,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "computerworkshop",
@@ -300,7 +468,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "baominh",
@@ -310,7 +484,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "longhung139",
@@ -320,7 +500,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "mayvanphongclls@gmail.com",
@@ -330,7 +516,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "duongkt76",
@@ -340,7 +532,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "vantai",
@@ -350,7 +548,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "0366605490",
@@ -360,7 +564,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "huyhohung",
@@ -370,7 +580,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "antam",
@@ -380,7 +596,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "adminvikkafe",
@@ -390,7 +612,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "hacamera",
@@ -400,7 +628,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "daoquyetcomputer",
@@ -410,7 +644,13 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
     },
     {
       "username": "nguyenhung",
@@ -420,7 +660,28 @@
       "role": "Khách hàng",
       "status": "active",
       "expiry": "Vĩnh viễn",
-      "hwid": ""
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "test",
+      "pin": "test",
+      "customer_name": "test",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T10:51:50.104510",
+      "password_revision": [
+        1790049110104510208,
+        "f8061e846cf54124beedf615394b9717"
+      ]
     }
   ],
   "banned_hwids": []
