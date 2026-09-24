@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:46:40.191319",
+  "updated_at": "2026-09-24T16:46:50.020714",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2387,36 +2387,6 @@
         }
       ],
       "last_login": ""
-    },
-    {
-      "username": "sakecompute",
-      "customer_name": "sakecompute",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": "",
-      "updated_at": "2026-09-24T16:37:04.393499",
-      "profile_revision": [
-        1790242624393499136,
-        "d26e1e265b014399ad9beb3c927d1d6e"
-      ],
-      "pin": "pbkdf2_sha256$600000$7480d1ac72f4ddb43f20cf0afe20cf06$366e6a35c21069f7a76b4236a069c430d587bd2c45889264b14eb2100d0afdd8",
-      "password_revision": [
-        1790242624831681400,
-        "764fe563b6b84126a894f50659b79ab4"
-      ],
-      "password_events": [
-        {
-          "id": "764fe563b6b84126a894f50659b79ab4",
-          "username": "sakecompute",
-          "computer": "UserPassManager",
-          "time": "2026-09-24T09:37:04+00:00",
-          "source": "admin",
-          "revision": 1790242624831681400
-        }
-      ],
-      "last_login": ""
     }
   ],
   "banned_hwids": [],
@@ -2425,6 +2395,7 @@
     "hung86@",
     "khach_2219",
     "khach_6469",
+    "sakecompute",
     "test",
     "test1",
     "test2"
