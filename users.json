@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:46:50.020714",
+  "updated_at": "2026-09-24T16:46:58.699173",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2384,6 +2384,36 @@
           "time": "2026-09-24T08:57:28+00:00",
           "source": "admin",
           "revision": 1790240248181529500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "sakecomputer",
+      "customer_name": "sakecomputer",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T16:46:57.016995",
+      "profile_revision": [
+        1790243217016995328,
+        "43cba27e84e947d1b0691b2fad4144de"
+      ],
+      "pin": "pbkdf2_sha256$600000$082500b8fd5d4770d35ef1d058ee7a69$0d49baea54b1ba66e647372283f6a578a42513f0b852b1676d4133fd3c4b7d92",
+      "password_revision": [
+        1790243217446264900,
+        "fb67f4eb26a64b31bad6bfedbe2671da"
+      ],
+      "password_events": [
+        {
+          "id": "fb67f4eb26a64b31bad6bfedbe2671da",
+          "username": "sakecomputer",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T09:46:57+00:00",
+          "source": "admin",
+          "revision": 1790243217446264900
         }
       ],
       "last_login": ""
