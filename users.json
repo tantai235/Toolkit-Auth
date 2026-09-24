@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:36:46.871154",
+  "updated_at": "2026-09-24T09:46:11.149671",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2234,6 +2234,36 @@
           "time": "2026-09-24T02:36:45+00:00",
           "source": "admin",
           "revision": 1790217405420878300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "phamgia",
+      "customer_name": "phamgia",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T09:46:08.829982",
+      "profile_revision": [
+        1790217968829982720,
+        "b95623b6a11f489cb9b94262f5257851"
+      ],
+      "pin": "pbkdf2_sha256$600000$1ff6ce05508818c6e7e9e995f419170f$def33ca7d6aa53a635a6e159e18df76a7e8102564aec2e76a4678bf70b221622",
+      "password_revision": [
+        1790217969275925100,
+        "7945bda4f0ba4c1ba805dd40e6fc33e2"
+      ],
+      "password_events": [
+        {
+          "id": "7945bda4f0ba4c1ba805dd40e6fc33e2",
+          "username": "phamgia",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T02:46:09+00:00",
+          "source": "admin",
+          "revision": 1790217969275925100
         }
       ],
       "last_login": ""
