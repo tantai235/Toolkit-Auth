@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T12:51:02.881408",
+  "updated_at": "2026-09-25T13:01:43.249449",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -1699,36 +1699,6 @@
       "last_login": ""
     },
     {
-      "username": "tranvinh",
-      "customer_name": "tranvinh",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": "",
-      "updated_at": "2026-09-22T23:23:19.645201",
-      "profile_revision": [
-        1790094199645200896,
-        "f7ddd2f2091342d1b6a1124ce0e66bed"
-      ],
-      "pin": "pbkdf2_sha256$600000$3764d2e8cb95157c9d4f05a49b109a12$cbfad7f2c383260163fa1848c1b2f855573ebb367c0ec0c0d3d76c3c1dc572f9",
-      "password_revision": [
-        1790094200075342100,
-        "a9df0a9b10b142ebb651af6b58e5522b"
-      ],
-      "password_events": [
-        {
-          "id": "a9df0a9b10b142ebb651af6b58e5522b",
-          "username": "tranvinh",
-          "computer": "UserPassManager",
-          "time": "2026-09-22T16:23:20+00:00",
-          "source": "admin",
-          "revision": 1790094200075342100
-        }
-      ],
-      "last_login": ""
-    },
-    {
       "username": "thang99",
       "customer_name": "thang99",
       "phone": "",
@@ -2458,6 +2428,7 @@
     "sakecompute",
     "test",
     "test1",
-    "test2"
+    "test2",
+    "tranvinh"
   ]
 }
