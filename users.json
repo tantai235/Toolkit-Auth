@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:01:43.249449",
+  "updated_at": "2026-09-25T13:02:06.961753",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2417,6 +2417,36 @@
         }
       ],
       "last_login": ""
+    },
+    {
+      "username": "tranvinh",
+      "customer_name": "tranvinh",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T13:02:05.261445",
+      "profile_revision": [
+        1790316125260439040,
+        "9c738e1390c24bdf8381d4cea4591a22"
+      ],
+      "pin": "pbkdf2_sha256$600000$48f831ebf6d9cf0b84910ed4d20b6a95$b16332885d83c99e673c2dc4285bafdfe7ba0677376547c413a4447cced20ab8",
+      "password_revision": [
+        1790316125707687600,
+        "0a01f739a1b845d5878e29e06bb896f8"
+      ],
+      "password_events": [
+        {
+          "id": "0a01f739a1b845d5878e29e06bb896f8",
+          "username": "tranvinh",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T06:02:05+00:00",
+          "source": "admin",
+          "revision": 1790316125707687600
+        }
+      ],
+      "last_login": ""
     }
   ],
   "banned_hwids": [],
@@ -2428,7 +2458,6 @@
     "sakecompute",
     "test",
     "test1",
-    "test2",
-    "tranvinh"
+    "test2"
   ]
 }
