@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T14:35:12.352603",
+  "updated_at": "2026-09-25T14:38:10.972185",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2029,36 +2029,6 @@
       "last_login": ""
     },
     {
-      "username": "caothang",
-      "customer_name": "caothang",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": "",
-      "updated_at": "2026-09-23T15:16:46.781433",
-      "profile_revision": [
-        1790151406781433088,
-        "6afb007f21f94c3d8ad0218bea2f33b1"
-      ],
-      "pin": "pbkdf2_sha256$600000$bac9227c3fe3d310ecfbf0f665e0cdf2$11a5fde2c48fdafc8505a45da1b09894effd07e9cff59124e21ffe11a16ee636",
-      "password_revision": [
-        1790151407228097000,
-        "52d954cfb24c4463bb0bf33ca4fef935"
-      ],
-      "password_events": [
-        {
-          "id": "52d954cfb24c4463bb0bf33ca4fef935",
-          "username": "caothang",
-          "computer": "UserPassManager",
-          "time": "2026-09-23T08:16:47+00:00",
-          "source": "admin",
-          "revision": 1790151407228097000
-        }
-      ],
-      "last_login": ""
-    },
-    {
       "username": "maytinhbaoanhbg",
       "customer_name": "maytinhbaoanhbg",
       "phone": "",
@@ -2481,6 +2451,7 @@
   ],
   "banned_hwids": [],
   "deleted_users": [
+    "caothang",
     "doublelift",
     "hung86@",
     "khach_2219",
