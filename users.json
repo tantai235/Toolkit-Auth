@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:49:44.594655",
+  "updated_at": "2026-09-25T21:03:55.378159",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2504,6 +2504,36 @@
           "time": "2026-09-25T13:49:42+00:00",
           "source": "admin",
           "revision": 1790344182970298300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vanla2251993@gmail.com",
+      "customer_name": "vanla2251993@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T21:03:53.613643",
+      "profile_revision": [
+        1790345033613643520,
+        "5c7a655e79b24159828ae973a5750004"
+      ],
+      "pin": "pbkdf2_sha256$600000$fc34ddb993968d05811bc0b29c266a65$4526c1263a406bb31e36ebb700d432ccf4cf77b49c3fdc3734a0cff7ebd9340d",
+      "password_revision": [
+        1790345034053063000,
+        "49b73f56e757437fbfd581fb44b150de"
+      ],
+      "password_events": [
+        {
+          "id": "49b73f56e757437fbfd581fb44b150de",
+          "username": "vanla2251993@gmail.com",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T14:03:54+00:00",
+          "source": "admin",
+          "revision": 1790345034053063000
         }
       ],
       "last_login": ""
