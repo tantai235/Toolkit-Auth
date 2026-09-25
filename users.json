@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T16:46:58.699173",
+  "updated_at": "2026-09-25T12:51:02.881408",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2414,6 +2414,36 @@
           "time": "2026-09-24T09:46:57+00:00",
           "source": "admin",
           "revision": 1790243217446264900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "huepc",
+      "customer_name": "huepc",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T12:51:01.237484",
+      "profile_revision": [
+        1790315461237484800,
+        "8549cc5b34224849abb82e5ea55a04c0"
+      ],
+      "pin": "pbkdf2_sha256$600000$d1aef325dbbd22de47b53dc60b9d6834$a972289c428322c4b10270e8820896a5a96076b61736ee7a661970787c6dc42d",
+      "password_revision": [
+        1790315461654360200,
+        "453648b840a94e0b8834a0f2f7563e7b"
+      ],
+      "password_events": [
+        {
+          "id": "453648b840a94e0b8834a0f2f7563e7b",
+          "username": "huepc",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T05:51:01+00:00",
+          "source": "admin",
+          "revision": 1790315461654360200
         }
       ],
       "last_login": ""
