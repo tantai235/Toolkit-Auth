@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:13:13.531646",
+  "updated_at": "2026-09-26T12:41:21.438164",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2714,6 +2714,36 @@
           "time": "2026-09-26T04:13:11+00:00",
           "source": "admin",
           "revision": 1790395991901661000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "redrose1002",
+      "customer_name": "redrose1002",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-26T12:41:19.717984",
+      "profile_revision": [
+        1790401279717984512,
+        "52e42fb109a84d0db256450c00a66f36"
+      ],
+      "pin": "pbkdf2_sha256$600000$d39562f5e1daf1a93d4372c6cc5ac1fc$61d497da830f479a2b58da4e1175dbf25acd6629eaa67735ab77399b8e245930",
+      "password_revision": [
+        1790401280164140400,
+        "b8fb983e4d7847579653697628b0b0e0"
+      ],
+      "password_events": [
+        {
+          "id": "b8fb983e4d7847579653697628b0b0e0",
+          "username": "redrose1002",
+          "computer": "UserPassManager",
+          "time": "2026-09-26T05:41:20+00:00",
+          "source": "admin",
+          "revision": 1790401280164140400
         }
       ],
       "last_login": ""
