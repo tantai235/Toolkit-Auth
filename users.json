@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T15:10:14.733921",
+  "updated_at": "2026-09-26T22:19:04.965516",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -2774,6 +2774,36 @@
           "time": "2026-09-26T08:10:13+00:00",
           "source": "admin",
           "revision": 1790410213415925500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "dactong",
+      "customer_name": "dactong",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-26T22:19:02.404550",
+      "profile_revision": [
+        1790435942404550400,
+        "8c39d910a9da41c5b8f26b6871fc7dbc"
+      ],
+      "pin": "pbkdf2_sha256$600000$5afd14f6f6df2cf99dd7ab90f0a7cce9$d766ad1dda4778d23120269293387d3d6981e86cc8d7bed42378cffcf2967271",
+      "password_revision": [
+        1790435942860077300,
+        "504c0106d08e46a98d5c5d1da09e5ee1"
+      ],
+      "password_events": [
+        {
+          "id": "504c0106d08e46a98d5c5d1da09e5ee1",
+          "username": "dactong",
+          "computer": "UserPassManager",
+          "time": "2026-09-26T15:19:02+00:00",
+          "source": "admin",
+          "revision": 1790435942860077300
         }
       ],
       "last_login": ""
