@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:43:12.865512",
+  "updated_at": "2026-09-30T20:04:59.864808",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3014,6 +3014,36 @@
           "time": "2026-09-30T05:43:11+00:00",
           "source": "admin",
           "revision": 1790746991409773100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "daoanhle1355@gmail.com",
+      "customer_name": "daoanhle1355@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-30T20:04:58.167990",
+      "profile_revision": [
+        1790773498167990528,
+        "559a485e1e2143db87630f0469394e6e"
+      ],
+      "pin": "pbkdf2_sha256$600000$d805714b408abc86b749479a308d6004$275cd77c0e2d63b4c0bb8bd6bd2a83ab10963fc3a74b16d49d01d3b6defe3744",
+      "password_revision": [
+        1790773498594949300,
+        "cd90aecf797e42dc9fb9b4b0f0593c84"
+      ],
+      "password_events": [
+        {
+          "id": "cd90aecf797e42dc9fb9b4b0f0593c84",
+          "username": "daoanhle1355@gmail.com",
+          "computer": "UserPassManager",
+          "time": "2026-09-30T13:04:58+00:00",
+          "source": "admin",
+          "revision": 1790773498594949300
         }
       ],
       "last_login": ""
