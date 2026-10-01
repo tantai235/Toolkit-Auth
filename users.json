@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:04:59.864808",
+  "updated_at": "2026-10-01T08:48:12.122662",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3047,18 +3047,38 @@
         }
       ],
       "last_login": ""
+    },
+    {
+      "username": "huong1991",
+      "customer_name": "huong1991",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-01T08:48:10.266819",
+      "profile_revision": [
+        1790819290266819072,
+        "e61bde154f874848b27e34544b70e264"
+      ],
+      "pin": "pbkdf2_sha256$600000$229e0c1e278bce03a1fe536a5480bff6$8c9c11909c9926e14f36b82bb27a8e4096daa9cc60e103829ae6ee9e0e23bd0e",
+      "password_revision": [
+        1790819290734218700,
+        "513057b499054776b3343eebbcd1bbfa"
+      ],
+      "password_events": [
+        {
+          "id": "513057b499054776b3343eebbcd1bbfa",
+          "username": "huong1991",
+          "computer": "UserPassManager",
+          "time": "2026-10-01T01:48:10+00:00",
+          "source": "admin",
+          "revision": 1790819290734218700
+        }
+      ],
+      "last_login": ""
     }
   ],
   "banned_hwids": [],
-  "deleted_users": [
-    "caothang",
-    "doublelift",
-    "hung86@",
-    "khach_2219",
-    "khach_6469",
-    "sakecompute",
-    "test",
-    "test1",
-    "test2"
-  ]
+  "deleted_users": []
 }
