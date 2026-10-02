@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:15:25.876269",
+  "updated_at": "2026-10-02T22:15:52.045226",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3167,10 +3167,38 @@
         }
       ],
       "last_login": ""
+    },
+    {
+      "username": "nguyendatnguyen",
+      "customer_name": "nguyendatnguyen",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-02T22:15:50.412325",
+      "profile_revision": [
+        1790954150412325120,
+        "312a934939574f69a30c661ae19816d8"
+      ],
+      "pin": "pbkdf2_sha256$600000$0691646f367e1f368f763f76b352a985$3caf773759cd931af53999d33eb421bd0772620cc56cbf219e3cc7feec422080",
+      "password_revision": [
+        1790954150863750200,
+        "d57c2d4916fa4c9393d263d708f21cea"
+      ],
+      "password_events": [
+        {
+          "id": "d57c2d4916fa4c9393d263d708f21cea",
+          "username": "nguyendatnguyen",
+          "computer": "UserPassManager",
+          "time": "2026-10-02T15:15:50+00:00",
+          "source": "admin",
+          "revision": 1790954150863750200
+        }
+      ],
+      "last_login": ""
     }
   ],
   "banned_hwids": [],
-  "deleted_users": [
-    "nguyendatnguyen"
-  ]
+  "deleted_users": []
 }
