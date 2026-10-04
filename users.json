@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:41:00.540492",
+  "updated_at": "2026-10-04T11:41:25.513127",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3314,6 +3314,36 @@
           "time": "2026-10-04T04:40:59+00:00",
           "source": "admin",
           "revision": 1791088859395896000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "duongbg6789@gmail.com",
+      "customer_name": "duongbg6789@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-04T11:41:23.810414",
+      "profile_revision": [
+        1791088883810414848,
+        "d36ead6484ae48b389930580d453e33b"
+      ],
+      "pin": "pbkdf2_sha256$600000$a9e7ead0e20b5cf0abbd61574f6d3c53$0c5af8e94a9bb0c5666eae4bac0ff5a88b75e335a8f34c7c91666f1b893a29c1",
+      "password_revision": [
+        1791088884245093100,
+        "e5fd5c35bea34bbe9231b4e535fa88e5"
+      ],
+      "password_events": [
+        {
+          "id": "e5fd5c35bea34bbe9231b4e535fa88e5",
+          "username": "duongbg6789@gmail.com",
+          "computer": "UserPassManager",
+          "time": "2026-10-04T04:41:24+00:00",
+          "source": "admin",
+          "revision": 1791088884245093100
         }
       ],
       "last_login": ""
