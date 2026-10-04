@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:42:55.175275",
+  "updated_at": "2026-10-04T11:43:02.656147",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3347,10 +3347,38 @@
         }
       ],
       "last_login": ""
+    },
+    {
+      "username": "binhphan",
+      "customer_name": "binhphan",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-04T11:43:00.976192",
+      "profile_revision": [
+        1791088980976192256,
+        "a33cd9b748f143e187771e24f049edff"
+      ],
+      "pin": "pbkdf2_sha256$600000$9deb9c4a90f8c21e03bf462b31b65afa$e0612c5d36b16067a11520b40f13f967274f31c89a6fd19f94c39dee29fb3b67",
+      "password_revision": [
+        1791088981410506900,
+        "8e5f6fbf402e4eceb3a83c9813e7858c"
+      ],
+      "password_events": [
+        {
+          "id": "8e5f6fbf402e4eceb3a83c9813e7858c",
+          "username": "binhphan",
+          "computer": "UserPassManager",
+          "time": "2026-10-04T04:43:01+00:00",
+          "source": "admin",
+          "revision": 1791088981410506900
+        }
+      ],
+      "last_login": ""
     }
   ],
   "banned_hwids": [],
-  "deleted_users": [
-    "binhphan"
-  ]
+  "deleted_users": []
 }
