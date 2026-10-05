@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T12:01:41.160154",
+  "updated_at": "2026-10-05T20:31:50.999079",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3524,6 +3524,36 @@
           "time": "2026-10-05T05:01:39+00:00",
           "source": "admin",
           "revision": 1791176499912389300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "0382765539",
+      "customer_name": "0382765539",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-05T20:31:49.380347",
+      "profile_revision": [
+        1791207109380347392,
+        "a963cd61e10d4355aaebc562c4e01cc0"
+      ],
+      "pin": "pbkdf2_sha256$600000$275515db785501d35d86a9b279208d6f$30bfa345ad5ae630a339c04b965a2d477757bc4a622f5bcac2ee8af01bd7c52f",
+      "password_revision": [
+        1791207109809258100,
+        "8b77f2eef71445e5abe493f3c16f67bf"
+      ],
+      "password_events": [
+        {
+          "id": "8b77f2eef71445e5abe493f3c16f67bf",
+          "username": "0382765539",
+          "computer": "UserPassManager",
+          "time": "2026-10-05T13:31:49+00:00",
+          "source": "admin",
+          "revision": 1791207109809258100
         }
       ],
       "last_login": ""
