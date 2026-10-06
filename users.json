@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T14:07:24.945538",
+  "updated_at": "2026-10-06T15:50:53.587755",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3614,6 +3614,36 @@
           "time": "2026-10-06T07:07:23+00:00",
           "source": "admin",
           "revision": 1791270443647299600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "dohailcu@gmail.com",
+      "customer_name": "dohailcu@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-06T15:50:51.989421",
+      "profile_revision": [
+        1791276651989421056,
+        "eb70412968a6493482f293fc350ccc03"
+      ],
+      "pin": "pbkdf2_sha256$600000$ca710c15172547895b482e05fc112ebc$199a9f5def12fff30634eb7a9ef4fc744145557dcd61101380ed0af8946116cd",
+      "password_revision": [
+        1791276652430369500,
+        "61403a804870470196c484313bf0d078"
+      ],
+      "password_events": [
+        {
+          "id": "61403a804870470196c484313bf0d078",
+          "username": "dohailcu@gmail.com",
+          "computer": "UserPassManager",
+          "time": "2026-10-06T08:50:52+00:00",
+          "source": "admin",
+          "revision": 1791276652430369500
         }
       ],
       "last_login": ""
