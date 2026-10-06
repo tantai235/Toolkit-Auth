@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T09:10:29.029588",
+  "updated_at": "2026-10-06T13:43:12.262471",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3584,6 +3584,36 @@
           "time": "2026-10-06T02:10:27+00:00",
           "source": "admin",
           "revision": 1791252627900537500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "intel@7120119",
+      "customer_name": "intel@7120119",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-06T13:43:10.553904",
+      "profile_revision": [
+        1791268990553904128,
+        "eb885d7c5a0844479ba57f4a02ff2e9d"
+      ],
+      "pin": "pbkdf2_sha256$600000$f220f1e4ab744f42e9abdab188b751cc$dcafe13c60d432e64d0cccbe56a900e9ee0f90a18594645c3596db23d46a3bf9",
+      "password_revision": [
+        1791268990973517600,
+        "ea107a49c5d440b59c61bd93a1d01622"
+      ],
+      "password_events": [
+        {
+          "id": "ea107a49c5d440b59c61bd93a1d01622",
+          "username": "intel@7120119",
+          "computer": "UserPassManager",
+          "time": "2026-10-06T06:43:10+00:00",
+          "source": "admin",
+          "revision": 1791268990973517600
         }
       ],
       "last_login": ""
