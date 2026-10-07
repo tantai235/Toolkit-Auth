@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T17:12:33.006379",
+  "updated_at": "2026-10-07T19:59:09.065807",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3499,36 +3499,6 @@
       "last_login": ""
     },
     {
-      "username": "ninhbinh9595",
-      "customer_name": "ninhbinh9595",
-      "phone": "",
-      "role": "Khách hàng",
-      "status": "active",
-      "expiry": "Vĩnh viễn",
-      "hwid": "",
-      "updated_at": "2026-10-05T12:01:39.473280",
-      "profile_revision": [
-        1791176499473280000,
-        "087407b4d9f342c7a6549e8fd5d32b1f"
-      ],
-      "pin": "pbkdf2_sha256$600000$cfd11b1dec4e18e322130d266bcb3433$ea1cf67ad1f6b3e28e11c579433d1a63a19dd4d3ea36f29222cd55e8e49f390c",
-      "password_revision": [
-        1791176499912389300,
-        "04a7eca49b53465cb6aedebd083964da"
-      ],
-      "password_events": [
-        {
-          "id": "04a7eca49b53465cb6aedebd083964da",
-          "username": "ninhbinh9595",
-          "computer": "UserPassManager",
-          "time": "2026-10-05T05:01:39+00:00",
-          "source": "admin",
-          "revision": 1791176499912389300
-        }
-      ],
-      "last_login": ""
-    },
-    {
       "username": "0382765539",
       "customer_name": "0382765539",
       "phone": "",
@@ -3707,10 +3677,30 @@
         }
       ],
       "last_login": ""
+    },
+    {
+      "username": "test",
+      "pin": "pbkdf2_sha256$600000$6dfbd310b973487e237afbb91e603672$7cbf542fa8190740a71fa94c7c797f0b2fed6a37efa41bd578db1028d0166dfe",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Quản trị viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 01:48:02",
+      "status": "active",
+      "last_login": "2026-09-20 14:47:52",
+      "profile_revision": [
+        1789843682288061100,
+        "24815d2c7cbe4c6fb5fd05d10e6ebd60"
+      ],
+      "password_revision": [
+        1789843682288061100,
+        "56bb35dc603849ac84e8119b6529b27c"
+      ],
+      "password_events": []
     }
   ],
   "banned_hwids": [],
   "deleted_users": [
-    "intel@7120119"
+    "ninhbinh9595"
   ]
 }
