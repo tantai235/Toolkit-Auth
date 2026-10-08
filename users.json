@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:06:09.576488",
+  "updated_at": "2026-10-08T11:20:38.602847",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3814,6 +3814,36 @@
           "time": "2026-10-08T04:06:07+00:00",
           "source": "admin",
           "revision": 1791432367863843900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "haibeo",
+      "customer_name": "haibeo",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-08T11:20:36.967761",
+      "profile_revision": [
+        1791433236967761664,
+        "2c989b77918d45a084ec3f404a106278"
+      ],
+      "pin": "pbkdf2_sha256$600000$34c5c20491af5dd8eb7c5a401be6dedc$412a3bb9976cab7b0158b2a37b8c8f989d702cd4c8e0b0d64e9eef95dc8e3e0f",
+      "password_revision": [
+        1791433237393543600,
+        "940562fd651c473c8b9e597750dbdec7"
+      ],
+      "password_events": [
+        {
+          "id": "940562fd651c473c8b9e597750dbdec7",
+          "username": "haibeo",
+          "computer": "UserPassManager",
+          "time": "2026-10-08T04:20:37+00:00",
+          "source": "admin",
+          "revision": 1791433237393543600
         }
       ],
       "last_login": ""
