@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T10:28:53.560069",
+  "updated_at": "2026-10-08T10:31:19.728466",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3754,6 +3754,36 @@
           "time": "2026-10-08T03:28:51+00:00",
           "source": "admin",
           "revision": 1791430131932434100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vuvu",
+      "customer_name": "vuvu",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-08T10:31:17.717140",
+      "profile_revision": [
+        1791430277717140480,
+        "75bda34cb5af4e478362754e8ff888c3"
+      ],
+      "pin": "pbkdf2_sha256$600000$c2907081839f74effdd951ed26973dca$d84c311e6dceaa34f70fc33289f34cffefaba94079ab2ecf1ee51f487cf2c6a4",
+      "password_revision": [
+        1791430278160710000,
+        "2365fdabe82c4905af96e6033cf6aa51"
+      ],
+      "password_events": [
+        {
+          "id": "2365fdabe82c4905af96e6033cf6aa51",
+          "username": "vuvu",
+          "computer": "UserPassManager",
+          "time": "2026-10-08T03:31:18+00:00",
+          "source": "admin",
+          "revision": 1791430278160710000
         }
       ],
       "last_login": ""
