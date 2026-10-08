@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T15:16:49.945269",
+  "updated_at": "2026-10-08T16:01:43.021716",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4024,6 +4024,36 @@
           "time": "2026-10-08T08:16:48+00:00",
           "source": "admin",
           "revision": 1791447408723521700
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "songlongtech",
+      "customer_name": "songlongtech",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-08T16:01:41.390870",
+      "profile_revision": [
+        1791450101390870784,
+        "bab9cccfa08a4557a220cdc43b2a2f3b"
+      ],
+      "pin": "pbkdf2_sha256$600000$ab36478c56fab07362a2fe8835ec1f8a$852732d7137a5720ebe9c50c2c3da31d3f454a2f9824938297a45a1a335487fc",
+      "password_revision": [
+        1791450101823369000,
+        "aeac009a8dd34b07a3f44c3e04001b57"
+      ],
+      "password_events": [
+        {
+          "id": "aeac009a8dd34b07a3f44c3e04001b57",
+          "username": "songlongtech",
+          "computer": "UserPassManager",
+          "time": "2026-10-08T09:01:41+00:00",
+          "source": "admin",
+          "revision": 1791450101823369000
         }
       ],
       "last_login": ""
