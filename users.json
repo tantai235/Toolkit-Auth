@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:00:27.772363",
+  "updated_at": "2026-10-08T10:28:53.560069",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -3724,6 +3724,36 @@
           "time": "2026-10-07T13:00:26+00:00",
           "source": "admin",
           "revision": 1791378026587959600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "toolbvt",
+      "customer_name": "toolbvt",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-08T10:28:51.495255",
+      "profile_revision": [
+        1791430131495255040,
+        "34cbad1577cc43c091c6c4b4d534be26"
+      ],
+      "pin": "pbkdf2_sha256$600000$97e178a1bdea91bc6e52fd36f1878ddb$db880e9aaef69a36f9fd72ea2f1fb30b186db4ae585caa4d9e2d99b64bd03122",
+      "password_revision": [
+        1791430131932434100,
+        "eaa34562121541af8ee1d789b426ea71"
+      ],
+      "password_events": [
+        {
+          "id": "eaa34562121541af8ee1d789b426ea71",
+          "username": "toolbvt",
+          "computer": "UserPassManager",
+          "time": "2026-10-08T03:28:51+00:00",
+          "source": "admin",
+          "revision": 1791430131932434100
         }
       ],
       "last_login": ""
