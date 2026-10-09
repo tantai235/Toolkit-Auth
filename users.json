@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T10:12:50.904221",
+  "updated_at": "2026-10-09T10:28:23.690091",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4204,6 +4204,36 @@
           "time": "2026-10-09T03:12:49+00:00",
           "source": "admin",
           "revision": 1791515569279899600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "minhart@ymail.com",
+      "customer_name": "minhart@ymail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-09T10:28:22.049939",
+      "profile_revision": [
+        1791516502049939456,
+        "b3737f7bf93344dc8fd8b15b979e6e31"
+      ],
+      "pin": "pbkdf2_sha256$600000$0d49b52e5d3d3e9be869142ae7bccab5$bf3574024ea63eea06a068d86e5e0161cdd3c5e101f40454a29f7a4693a4b6bb",
+      "password_revision": [
+        1791516502481405900,
+        "f9807d72d86644c3b12ad078eb16f0a9"
+      ],
+      "password_events": [
+        {
+          "id": "f9807d72d86644c3b12ad078eb16f0a9",
+          "username": "minhart@ymail.com",
+          "computer": "UserPassManager",
+          "time": "2026-10-09T03:28:22+00:00",
+          "source": "admin",
+          "revision": 1791516502481405900
         }
       ],
       "last_login": ""
