@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T18:57:19.082908",
+  "updated_at": "2026-10-09T10:11:54.450383",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4117,10 +4117,38 @@
         }
       ],
       "last_login": ""
+    },
+    {
+      "username": "james1331",
+      "customer_name": "james1331",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-09T10:11:52.640347",
+      "profile_revision": [
+        1791515512640347648,
+        "b50fe11911154536990740c041e12008"
+      ],
+      "pin": "pbkdf2_sha256$600000$e573fda1c3aa8c33ba03beda6d037ea1$2fb5f556278b8b3f82fbd3f8ff654cd04627244014fac7592ad9e594ae1c6590",
+      "password_revision": [
+        1791515513062429800,
+        "c42d47afc7204f6c9d573f96a23af19f"
+      ],
+      "password_events": [
+        {
+          "id": "c42d47afc7204f6c9d573f96a23af19f",
+          "username": "james1331",
+          "computer": "UserPassManager",
+          "time": "2026-10-09T03:11:53+00:00",
+          "source": "admin",
+          "revision": 1791515513062429800
+        }
+      ],
+      "last_login": ""
     }
   ],
   "banned_hwids": [],
-  "deleted_users": [
-    "khach_4648"
-  ]
+  "deleted_users": []
 }
