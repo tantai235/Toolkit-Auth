@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:08:48.272327",
+  "updated_at": "2026-10-09T12:20:36.518516",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4294,6 +4294,36 @@
           "time": "2026-10-09T05:08:46+00:00",
           "source": "admin",
           "revision": 1791522526670661400
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "kcntech",
+      "customer_name": "kcntech",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-09T12:20:34.867800",
+      "profile_revision": [
+        1791523234867800064,
+        "9ef5216b76d8429e803e35816c553408"
+      ],
+      "pin": "pbkdf2_sha256$600000$17adcb0cdba94c4af659df7cd53a5258$429f3a04f25585a41fa94ae30a5af6601a383b96ecff7c5e90a0b426ae8720a8",
+      "password_revision": [
+        1791523235307151800,
+        "81aa45c83df94363a8218cbab6dfb79c"
+      ],
+      "password_events": [
+        {
+          "id": "81aa45c83df94363a8218cbab6dfb79c",
+          "username": "kcntech",
+          "computer": "UserPassManager",
+          "time": "2026-10-09T05:20:35+00:00",
+          "source": "admin",
+          "revision": 1791523235307151800
         }
       ],
       "last_login": ""
