@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T10:11:54.450383",
+  "updated_at": "2026-10-09T10:12:17.914209",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4144,6 +4144,36 @@
           "time": "2026-10-09T03:11:53+00:00",
           "source": "admin",
           "revision": 1791515513062429800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "superpc",
+      "customer_name": "superpc",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-09T10:12:15.865288",
+      "profile_revision": [
+        1791515535865288448,
+        "5a048d9cca244fed866651945b6657c6"
+      ],
+      "pin": "pbkdf2_sha256$600000$bafcda0e5bbf131a0247fee831f4af63$f06cda621e42c429b45da1514958fd13275612b970a65825703c483d2657f833",
+      "password_revision": [
+        1791515536290344700,
+        "db421d3ee0ba4b4b8672fd1a951cf35c"
+      ],
+      "password_events": [
+        {
+          "id": "db421d3ee0ba4b4b8672fd1a951cf35c",
+          "username": "superpc",
+          "computer": "UserPassManager",
+          "time": "2026-10-09T03:12:16+00:00",
+          "source": "admin",
+          "revision": 1791515536290344700
         }
       ],
       "last_login": ""
