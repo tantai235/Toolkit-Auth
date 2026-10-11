@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T14:44:35.797170",
+  "updated_at": "2026-10-11T09:42:53.829909",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4654,6 +4654,36 @@
           "time": "2026-10-10T07:44:34+00:00",
           "source": "admin",
           "revision": 1791618274166422800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "ledoanduy@gmail.com",
+      "customer_name": "ledoanduy@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-11T09:42:52.302758",
+      "profile_revision": [
+        1791686572302758912,
+        "605f498948544c259ca5f7a4aa6ac0c3"
+      ],
+      "pin": "pbkdf2_sha256$600000$b0641f5db8938a56409c0e3b28a41819$dd763a32d1d93feb9c17fe68076fd8bd7f352cc520dda254efbd8697a07bcd81",
+      "password_revision": [
+        1791686572750858400,
+        "beb3077f1784483581fcb23c03ee45bd"
+      ],
+      "password_events": [
+        {
+          "id": "beb3077f1784483581fcb23c03ee45bd",
+          "username": "ledoanduy@gmail.com",
+          "computer": "UserPassManager",
+          "time": "2026-10-11T02:42:52+00:00",
+          "source": "admin",
+          "revision": 1791686572750858400
         }
       ],
       "last_login": ""
