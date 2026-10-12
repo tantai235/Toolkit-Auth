@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T15:20:40.909745",
+  "updated_at": "2026-10-12T09:35:51.280491",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4714,6 +4714,36 @@
           "time": "2026-10-11T08:20:39+00:00",
           "source": "admin",
           "revision": 1791706839272610200
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "zintho",
+      "customer_name": "zintho",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-12T09:35:49.289373",
+      "profile_revision": [
+        1791772549289373952,
+        "50de4320953340eab82bd79ad5846f75"
+      ],
+      "pin": "pbkdf2_sha256$600000$2ce6fd87ed5dbf4ac862bc7dd40b00c3$959ad3470758940fd5ecd4f4e4933ad31a0e6a37884be1180433b6980339bd9c",
+      "password_revision": [
+        1791772549716007500,
+        "9181531e034c4654bbf257dae7b63bf1"
+      ],
+      "password_events": [
+        {
+          "id": "9181531e034c4654bbf257dae7b63bf1",
+          "username": "zintho",
+          "computer": "UserPassManager",
+          "time": "2026-10-12T02:35:49+00:00",
+          "source": "admin",
+          "revision": 1791772549716007500
         }
       ],
       "last_login": ""
