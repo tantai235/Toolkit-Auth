@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:56:35.571503",
+  "updated_at": "2026-10-16T11:08:39.009061",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -4954,6 +4954,36 @@
           "time": "2026-10-15T16:56:33+00:00",
           "source": "admin",
           "revision": 1792083393810377400
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "duytungcomputer",
+      "customer_name": "duytungcomputer",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-16T11:08:37.119248",
+      "profile_revision": [
+        1792123717119247872,
+        "0b64ac7558c6407689885910ab4082fd"
+      ],
+      "pin": "pbkdf2_sha256$600000$b69d8ee3e321a23dd6dd950ff097e75c$c8d7ce9d2b6ea7c4cdf2d48d90c79c9a3eb07bed9aabaa179e79d723f588c9b2",
+      "password_revision": [
+        1792123717557632400,
+        "6ade6c82ff064ab28c2b146a42222dc8"
+      ],
+      "password_events": [
+        {
+          "id": "6ade6c82ff064ab28c2b146a42222dc8",
+          "username": "duytungcomputer",
+          "computer": "UserPassManager",
+          "time": "2026-10-16T04:08:37+00:00",
+          "source": "admin",
+          "revision": 1792123717557632400
         }
       ],
       "last_login": ""
