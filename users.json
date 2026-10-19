@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T11:23:09.887677",
+  "updated_at": "2026-10-19T11:23:57.778031",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -5170,7 +5170,8 @@
     }
   ],
   "banned_hwids": [
-    "E176-8BCB-2588-CE0F"
+    "E176-8BCB-2588-CE0F",
+    "ABD4-6A61-D2B6-E17B"
   ],
   "deleted_users": []
 }
