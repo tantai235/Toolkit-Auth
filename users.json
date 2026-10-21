@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:06:23.685583",
+  "updated_at": "2026-10-21T18:29:55.122233",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -5194,6 +5194,36 @@
           "time": "2026-10-20T06:06:22+00:00",
           "source": "admin",
           "revision": 1792476382739934100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "bum90",
+      "customer_name": "bum90",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-21T18:29:53.506460",
+      "profile_revision": [
+        1792582193506459904,
+        "f7232e37e4034d3a9affead16594e99a"
+      ],
+      "pin": "pbkdf2_sha256$600000$7f9155e2428b2eb5893e68be0b53ade8$6b028cdd6a1406433dba1024f0aa19a0bc7dea07bcc8dcefd9b3f8a0eb5334f5",
+      "password_revision": [
+        1792582193671313100,
+        "4f4cdd556a65499f9cc6867711db011a"
+      ],
+      "password_events": [
+        {
+          "id": "4f4cdd556a65499f9cc6867711db011a",
+          "username": "bum90",
+          "computer": "UserPassManager",
+          "time": "2026-10-21T11:29:53+00:00",
+          "source": "admin",
+          "revision": 1792582193671313100
         }
       ],
       "last_login": ""
