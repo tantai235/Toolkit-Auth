@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:30:57.969017",
+  "updated_at": "2026-10-22T19:52:35.979140",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -5254,6 +5254,66 @@
           "time": "2026-10-21T13:30:56+00:00",
           "source": "admin",
           "revision": 1792589456710754800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "khach_2443",
+      "customer_name": "khach_2443",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-22T18:42:49.240987",
+      "profile_revision": [
+        1792669369240987904,
+        "20b7c13cec5d458d9b20eedc98b12446"
+      ],
+      "pin": "pbkdf2_sha256$600000$110d3d51fa673e83c34a9cf733f55876$8ecf1b739f8b739f8484a68818cbd940df84bb6ca2b41e7cabe3f0b76ed08f82",
+      "password_revision": [
+        1792669369402284100,
+        "d5fb6464a8f840bf9867f0c6d448d190"
+      ],
+      "password_events": [
+        {
+          "id": "d5fb6464a8f840bf9867f0c6d448d190",
+          "username": "khach_2443",
+          "computer": "UserPassManager",
+          "time": "2026-10-22T11:42:49+00:00",
+          "source": "admin",
+          "revision": 1792669369402284100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "trungducnguyen",
+      "customer_name": "trungducnguyen",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-10-22T19:48:49.996747",
+      "profile_revision": [
+        1792673329996747520,
+        "1e57dcdebaf945138f39bbfd3a883b6f"
+      ],
+      "pin": "pbkdf2_sha256$600000$dbaf502a31ace045faf760a627b232af$60e3333bbde34e8a10cb42c77d708e84dde5991d9077eb1bd7a0ef1999f49f88",
+      "password_revision": [
+        1792673330164259200,
+        "08f33ab0f812455dba02850e3ca992e1"
+      ],
+      "password_events": [
+        {
+          "id": "08f33ab0f812455dba02850e3ca992e1",
+          "username": "trungducnguyen",
+          "computer": "UserPassManager",
+          "time": "2026-10-22T12:48:50+00:00",
+          "source": "admin",
+          "revision": 1792673330164259200
         }
       ],
       "last_login": ""
