@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:28:44.344914",
+  "updated_at": "2026-11-03T19:59:02.864442",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -5884,6 +5884,36 @@
           "time": "2026-11-03T07:28:42+00:00",
           "source": "admin",
           "revision": 1793690922788006100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "nkcomputer",
+      "customer_name": "nkcomputer",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-11-03T19:59:01.632988",
+      "profile_revision": [
+        1793710741632988416,
+        "3106f861d99a4aaa88e629aaab8e2538"
+      ],
+      "pin": "pbkdf2_sha256$600000$aef4d8417cc012d71fbbe266884a9bee$4932815d548fb053f3ac8e6bb1943527285d2af9a1bf6382c83b444eefe3e85e",
+      "password_revision": [
+        1793710741801797400,
+        "a162922bc9e04e4bb3cc1870edb5c1ba"
+      ],
+      "password_events": [
+        {
+          "id": "a162922bc9e04e4bb3cc1870edb5c1ba",
+          "username": "nkcomputer",
+          "computer": "UserPassManager",
+          "time": "2026-11-03T12:59:01+00:00",
+          "source": "admin",
+          "revision": 1793710741801797400
         }
       ],
       "last_login": ""
