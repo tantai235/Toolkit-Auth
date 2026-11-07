@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:37:16.187550",
+  "updated_at": "2026-11-07T12:33:18.416624",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -6064,6 +6064,36 @@
           "time": "2026-11-06T09:37:14+00:00",
           "source": "admin",
           "revision": 1793957834881394800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "phattichtech",
+      "customer_name": "phattichtech",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-11-07T12:33:17.323326",
+      "profile_revision": [
+        1794029597323325952,
+        "f1d4102de27f4a3c80cbb4a1307926f3"
+      ],
+      "pin": "pbkdf2_sha256$600000$cf368e449a771f7f67b06044cf1e3c60$cb26ddb5270547b9f3851a0eac34b507edafb59073e2f05fad0c65dc5f3c1f05",
+      "password_revision": [
+        1794029597498312700,
+        "9ce4ad7003654385be36fb2408df7da6"
+      ],
+      "password_events": [
+        {
+          "id": "9ce4ad7003654385be36fb2408df7da6",
+          "username": "phattichtech",
+          "computer": "UserPassManager",
+          "time": "2026-11-07T05:33:17+00:00",
+          "source": "admin",
+          "revision": 1794029597498312700
         }
       ],
       "last_login": ""
