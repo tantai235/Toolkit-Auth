@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:23:11.975122",
+  "updated_at": "2026-11-11T19:24:09.379865",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -6316,10 +6316,10 @@
       "status": "active",
       "expiry": "Vĩnh viễn",
       "hwid": "",
-      "updated_at": "2026-11-11T19:23:10.144947",
+      "updated_at": "2026-11-11T19:24:08.131289",
       "profile_revision": [
-        1794399790144947200,
-        "be8d8be6a23343c38fe211ec1dc2b440"
+        1794399848131289344,
+        "d5a069bec1034c0baf7fa94823b94939"
       ],
       "pin": "pbkdf2_sha256$600000$b32032492345580152d172cbf686f602$0f104ce20c62afd7bbf7307db6d0b09055a198581f0cb794a227d2cbff6b22fb",
       "password_revision": [
