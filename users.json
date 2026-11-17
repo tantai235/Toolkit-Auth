@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T14:23:59.188185",
+  "updated_at": "2026-11-17T16:32:58.504751",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -6574,6 +6574,36 @@
           "time": "2026-11-17T07:22:58+00:00",
           "source": "admin",
           "revision": 1794900178262709500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "tridung",
+      "customer_name": "tridung",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-11-17T16:32:56.799797",
+      "profile_revision": [
+        1794907976799797504,
+        "0266c208521144969beeadaa425bdef7"
+      ],
+      "pin": "pbkdf2_sha256$600000$6d2155784db2b04569a091b05288b913$925edf71951dcb4b905943e86ab341ec6ca8e29f213df12633cc65b79e46b948",
+      "password_revision": [
+        1794907976981532600,
+        "773a155fa97046b393496f0a0e838ec9"
+      ],
+      "password_events": [
+        {
+          "id": "773a155fa97046b393496f0a0e838ec9",
+          "username": "tridung",
+          "computer": "UserPassManager",
+          "time": "2026-11-17T09:32:56+00:00",
+          "source": "admin",
+          "revision": 1794907976981532600
         }
       ],
       "last_login": ""
