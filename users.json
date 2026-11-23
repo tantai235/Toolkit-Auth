@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T13:16:07.942290",
+  "updated_at": "2026-11-23T19:04:03.031123",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -6754,6 +6754,36 @@
           "time": "2026-11-20T06:16:06+00:00",
           "source": "admin",
           "revision": 1795155366486321800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "thequy",
+      "customer_name": "thequy",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-11-23T19:04:00.813794",
+      "profile_revision": [
+        1795435440813794816,
+        "fd064f93cd904c73a823ba38cb391eaa"
+      ],
+      "pin": "pbkdf2_sha256$600000$4a6cf6eb1a688e8a7acaafadec7c740c$5ff78ff23844e1cfbe664b759e598afd8ce9bde2db1154db88a4c4d5ec686ae2",
+      "password_revision": [
+        1795435441045544400,
+        "72f4df6ebbf94daca9b24eea4c662dba"
+      ],
+      "password_events": [
+        {
+          "id": "72f4df6ebbf94daca9b24eea4c662dba",
+          "username": "thequy",
+          "computer": "UserPassManager",
+          "time": "2026-11-23T12:04:01+00:00",
+          "source": "admin",
+          "revision": 1795435441045544400
         }
       ],
       "last_login": ""
