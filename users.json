@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T00:37:35.778576",
+  "updated_at": "2026-11-27T13:19:28.055685",
   "version": "2.0",
   "offline_admin": {
     "username": "tantai",
@@ -6964,6 +6964,36 @@
           "time": "2026-11-26T17:37:34+00:00",
           "source": "admin",
           "revision": 1795714654505064700
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "Hlc",
+      "customer_name": "Hlc",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-11-27T13:19:26.605590",
+      "profile_revision": [
+        1795760366605590784,
+        "2b5948c747f241549af801f49a9eb30a"
+      ],
+      "pin": "pbkdf2_sha256$600000$c469a3fd9bd60163e5b01edf609a138b$a998c26a2a2e45495c7b3f580ce117ff02447af6811cc482d4a0b7ee04e55b49",
+      "password_revision": [
+        1795760366775616700,
+        "bc8913653ea34e33aa4a7d8681b0a923"
+      ],
+      "password_events": [
+        {
+          "id": "bc8913653ea34e33aa4a7d8681b0a923",
+          "username": "Hlc",
+          "computer": "UserPassManager",
+          "time": "2026-11-27T06:19:26+00:00",
+          "source": "admin",
+          "revision": 1795760366775616700
         }
       ],
       "last_login": ""
